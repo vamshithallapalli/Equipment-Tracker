@@ -1,3 +1,5 @@
+---
+
 # Equipment Tracker
 
 A simple MERN stack application to manage equipment. Users can view, add, edit, and delete equipment items.
@@ -77,7 +79,7 @@ The frontend will run at `http://localhost:3000`.
 
 * All fields (`name`, `type`, `status`, `lastCleanedDate`) are required.
 * No user authentication is needed.
-* Data is small, so a simple MongoDB collection (or JSON file for local) is sufficient.
+* Data is small, so a simple MongoDB collection is sufficient.
 
 ## Possible Improvements (if more time was available)
 
@@ -89,8 +91,7 @@ The frontend will run at `http://localhost:3000`.
 * Handle **server errors gracefully** with notifications
 * Deploy frontend and backend to **live URLs**
 
+## Screenshot of Webpage
+![EquipmentTrackerWebpage](equipmenttracker.png)
+
 ---
-
-You can **copy this directly into a `README.md`** in your project folder, commit, and push to GitHub.
-
-If you want, I can also **add a section for project structure and folder layout** so it looks very professional. Do you want me to do that?

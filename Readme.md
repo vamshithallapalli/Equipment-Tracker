@@ -1,4 +1,3 @@
----
 
 # Equipment Tracker
 
